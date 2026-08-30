@@ -1,11 +1,11 @@
 ---
 name: travel-memory-sticker-card
-description: Transform a user-uploaded photograph into one horizontal collectible memory card with a large quiet editorial illustration, six integrated journaling-sticker motifs, three small English keywords beneath the left illustration, tactile paper grain, and deliberately clumsy flat color fields. Use when Codex needs to P图, edit, redraw, stylize, or turn a travel, street, landscape, lifestyle, portrait, or pet photo into a minimalist postcard-like card or sticker-card in this visual language. Preserve recognition through one same-medium identification anchor and optionally one exact place-defining landmark text shown once; never retain an unintended photorealistic patch, signature, or watermark.
+description: Transform a user-uploaded photograph into a horizontal collectible memory card with a large quiet editorial illustration, six integrated journaling-sticker motifs, three small English keywords beneath the left illustration, tactile paper grain, and deliberately clumsy flat color fields. Also create a matching Cricut Print-then-Cut production sheet with the left card and six separate die-cuts on an empty background. Use when Codex needs to P图, edit, redraw, stylize, or turn a travel, street, landscape, lifestyle, portrait, or pet photo into this minimalist postcard-like card or sticker-card visual language. Preserve recognition through one same-medium identification anchor and optionally one exact place-defining landmark text shown once; never retain an unintended photorealistic patch, signature, or watermark.
 ---
 
 # Travel Memory Sticker Card
 
-Turn one user photo into one finished bitmap memory card. Use the image generation/editing tool; do not simulate the result with filters or code.
+Turn one user photo into two finished bitmap outputs: the standard memory card and a matching Cricut Print-then-Cut sheet. Use the image generation/editing tool; do not simulate the result with filters or code.
 
 ## Workflow
 
@@ -14,7 +14,8 @@ Turn one user photo into one finished bitmap memory card. Use the image generati
 3. Decide whether any source text is truly a landmark anchor. Default to NONE; retain one exact text item only when it materially identifies the remembered place.
 4. Select exactly six source-derived sticker motifs and exactly three concise English keywords.
 5. Read [references/style-guide.md](references/style-guide.md), then generate from the source photo.
-6. Inspect the result. Regenerate once if the first read is detail rather than large shapes and quiet space, if the image looks photographic or painterly, if the sticker count is wrong, or if required text is wrong.
+6. Produce the standard card and the matching Cricut sheet described below.
+7. Inspect both results. Regenerate once if the first read is detail rather than large shapes and quiet space, if the image looks photographic or painterly, if the sticker count is wrong, if required text is wrong, or if the Cricut sheet includes a filled background.
 
 ## Fixed card system
 
@@ -24,6 +25,15 @@ Turn one user photo into one finished bitmap memory card. Use the image generati
 - Place exactly six separate die-cut stickers in the right 30–32%, using the full composition height. Make two or three stickers larger and the remainder smaller; stagger them with calm, irregular spacing.
 - Give every sticker a thick irregular warm-white hand-cut border and a subtle flat paper shadow.
 - Do not add a title, caption, date, writing area, postal marks, address lines, subtitle, or readable text beyond the keywords and one optional landmark text anchor.
+
+## Cricut Print-then-Cut sheet
+
+Create a second 3:2 horizontal output using the same illustration, footer, keywords, motifs, scale hierarchy, colors, and sticker borders as the standard card.
+
+- Remove only the continuous warm-paper card background. The area around the objects must be completely empty: use a transparent background when supported; otherwise use a flat pure-white background with no paper grain, tint, frame, texture, pattern, or extra objects.
+- Keep the left card as one isolated warm-off-white rectangular card, containing the unframed illustration and its shallow keyword footer exactly as in the standard output.
+- Put the six separate die-cut stickers to its right, retaining their thick warm-white borders and the same calm irregular arrangement. Keep clear empty gaps between every cut piece and around the outside of the sheet; no sticker may touch or overlap the left card.
+- Do not add a Cricut logo, registration marks, cut lines, labels, title, or instructional text. The image must contain only the left card and the six die-cuts over the empty background.
 
 ## Identification and landmark text
 
@@ -51,6 +61,8 @@ Turn one user photo into one finished bitmap memory card. Use the image generati
 
 > Create one 3:2 horizontal collectible memory card from the supplied photo on warm off-white textured paper. Preserve a continuous 4–5% outer paper margin. Build the left 66–68% as a large near-square unframed illustration with a shallow exposed-paper footer below it. Center exactly these three English keywords once beneath the illustration, separated by centered dots: [keywords]. Place exactly six source-derived die-cut journaling stickers in the right 30–32%, with irregular warm-white borders, subtle flat shadows, and calm staggered spacing. Preserve [identification anchor] through silhouette, position, relationship, and signature colors, rendered in the same matte gouache, cut-paper, grainy medium as the rest of the card. Preserve this landmark text exactly once in the main illustration: [verbatim text or NONE]. Rebuild the scene from 5–8 broad matte color families. Make the first read 3–6 oversized blunt shapes and quiet negative space, using [palette and dominant quiet field]. Simplify [source elements] into naive, slightly misproportioned color planes with hand-cut chalky edges and fine uniform paper grain. Include these six stickers: [motifs]. Add no other readable text, title, caption, date, writing area, postal marks, watermark, or signature. No visible marker strokes, watercolor wash, painterly photo filter, photorealism, glossy 3D, gradients, anime, polished vector art, or unrelated objects.
 
+> Then create a matching second 3:2 Cricut Print-then-Cut sheet. Keep the left warm-paper card and its three-keyword footer plus the same six separate right-side die-cuts, but remove the continuous card background. Use transparency when supported; otherwise use featureless pure white. Keep every object separated by clear empty space. Include no cut lines, registration marks, Cricut logo, labels, or additional objects.
+
 ## Quality checks
 
 - The scene is identifiable at a glance, but its first read is large shapes and quiet space rather than detail.
@@ -58,7 +70,8 @@ Turn one user photo into one finished bitmap memory card. Use the image generati
 - The left illustration dominates and is completely unframed; the right column has exactly six separated stickers with a clear size hierarchy.
 - Exactly three small English keywords appear once on exposed paper beneath the left illustration, separated by centered dots.
 - Warm paper remains visible around the full composition, and no other readable text, watermark, signature, or incidental source text remains.
+- The Cricut sheet contains exactly one left card and six separate right-side die-cuts, with no continuous background behind them. Its background is transparent when available, otherwise pure white and completely empty.
 
 ## Delivery
 
-Show the finished image. Briefly name the identification anchor, the six sticker choices, the three English keywords, and the saved path when available.
+Show both finished images: the standard memory card and the Cricut Print-then-Cut sheet. Briefly name the identification anchor, the six sticker choices, the three English keywords, and the saved paths when available.

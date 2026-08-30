@@ -23,6 +23,12 @@ Record a place through selective memory rather than descriptive realism. Combine
 - Leave the left image completely unframed and visually dominant. Reserve only a shallow exposed-paper strip beneath it for the keyword footer.
 - Treat the six right-column stickers as memory fragments, not a catalog: use uneven scale, relaxed spacing, thick warm-white cut edges, and subtle flat shadows.
 
+## Cricut Print-then-Cut version
+
+- Deliver a matching second sheet with only the warm-paper left card and the six right-side die-cuts.
+- The sheet background is transparent when the export supports alpha; otherwise it is featureless pure white. Do not carry over the warm-paper field, grain, tint, frame, decorative marks, or cut guides.
+- Preserve clear blank separation between the left card and every die-cut, and between all six die-cuts, so each object reads as a separate cut piece.
+
 ## Avoid
 
 - Photographic patches, painterly photo filters, lens blur, film grain, or realistic texture.
